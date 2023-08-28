@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WillJTools
-- 🌱 I’m a Certified Ethical Hacker
-- 👀 I’m interested in creating tools to enhance cyber security professionals
+- Hi, I’m @WillJTools
+- I’m a Certified Ethical Hacker
+- I’m interested in creating tools to enhance cyber security professionals
 - Please exercise responsible usage of these tools. I cannot accept responsibility for any actions taken by individuals utilizing these tools. 
   
 
